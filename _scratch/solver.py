@@ -1,7 +1,10 @@
 import random
 import json 
 
+"""
+https://en.wikipedia.org/wiki/Constraint_satisfaction_problem
 
+"""
 
 #     health = 100
 #     moves  = 100
