@@ -1,7 +1,7 @@
 # Grid Of Death
 The goal of this puzzle is to fill the grid with cells of type ("Blank", "Speeder", "Lava", "Mud") and traverse through without dying while finding the best route or determine if the grid is solvable.
 
-### Python Verion:
+### Python Version:
 3.9.10
 
 ### Set up
