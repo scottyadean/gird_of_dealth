@@ -6,9 +6,8 @@ The goal of this puzzle is to fill the grid with cells of type ("Blank", "Speede
 
 ### Set up
 - git clone project
-- cd gird_of_dealth
+- cd grid_of_dealth
 - pip install -r requirements.txt
-- 
 
 ### Running Tests
 ```
