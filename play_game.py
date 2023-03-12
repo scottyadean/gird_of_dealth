@@ -16,4 +16,4 @@ result = grid_game.solver(0, 0, grid_game.DEFAULT_HEALTH, grid_game.DEFAULT_MOVE
 if result is not None:
    print(grid_game.success_message(result))
 else:
-   print(grid_game.dealth_message())
+   print(grid_game.death_message())

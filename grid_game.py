@@ -30,7 +30,7 @@ class GridGame:
      if self.DEBUG:
         print(msg)
 
-  def dealth_message(self) -> str:
+  def death_message(self) -> str:
     """ return a message if we cant solve the map """
     size = len(self.grid)
     diff = self.difficulty
