@@ -1,4 +1,4 @@
-# Grid Of Dealth
+# Grid Of Death
 The goal of this puzzle is to fill the grid with cells of type ("Blank", "Speeder", "Lava", "Mud") and traverse through without dying while finding the best route or determine if the grid is solvable.
 
 ### Python Verion:
@@ -6,7 +6,7 @@ The goal of this puzzle is to fill the grid with cells of type ("Blank", "Speede
 
 ### Set up
 - git clone project
-- cd grid_of_dealth
+- cd grid_of_death
 - pip install -r requirements.txt
 
 ### Running Tests
