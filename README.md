@@ -28,6 +28,13 @@ We Won! I found the best route health: 30, moves: 183, on easy mode
 - `./play_game.py`: entry point
 - `./grid_game.py`: grid class definition
 - `./test_game.py`: test file
+- `./dijkstra_solver.py`: Graph Path Solver Example
+
+
+
+### Example Visualization
+![Output example](assets/image.png)
+
 
 ### Who to talk to
 Scott Dean
